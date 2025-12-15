@@ -1,0 +1,15 @@
+# IDE / Workspace files
+.metadata/
+.vscode/
+.idea/
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Backup / temp files
+*.bkp
+*.tmp
+
+# Logs
+*.log
